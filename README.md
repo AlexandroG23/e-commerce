@@ -3,7 +3,7 @@ Proyecto ECommerce sobre ventas de ropas con HTML, CSS, JS + FETCH Y LIBRERIAS.
 
 Capturas de pantalla del proyecto: 
 
-![Imagen del proyecto](./img/ashop1.png)
+![Imagen del proyecto](./img/ashop.png)
 ![Imagen del proyecto](./img/ashop2.png)
 ![Imagen del proyecto](./img/ashop3.png)
 ![Imagen del proyecto](./img/ashop4.png)
